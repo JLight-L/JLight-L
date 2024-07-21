@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JLight-L
-- 👀 I’m interested in my interest
+- 👀 I’m interested in making Terraria mod
 - 🌱 I’m currently learning my insterest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
